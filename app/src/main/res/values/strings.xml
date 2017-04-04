@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListViewDemo_facetest</string>
+    <string name="button">加载更多</string>
+</resources>
